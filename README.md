@@ -2,7 +2,7 @@
 <h3 align="center">Let's connect through code.</h3>
 
 <p align="center">
-  <img width="300" height="200" src="200.gif">
+  <img width="300" height="200" src="/200.gif">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshdigi&label=Profile%20views&color=0e75b6&style=flat" alt="harshdigi" /> </p>
 
