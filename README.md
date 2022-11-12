@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **problem solving and algorigthms**
 
-- 📝 I regularly write articles on [www.digitaldealsolution.in](www.digitaldealsolution.in)
+<!-- - 📝 I regularly write articles on [www.digitaldealsolution.in](www.digitaldealsolution.in) -->
 
 - 💬 Ask me about **Django and Android Development**
 
